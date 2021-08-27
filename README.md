@@ -48,12 +48,8 @@ A test repo for challenge bot.
 48
 49
 50
+51
 52
-<<<<<<< HEAD
-53
-545
 53
 54
 55
-=======
->>>>>>> 6c9797e (feat: update README.md (#418))
